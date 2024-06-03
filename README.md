@@ -1,5 +1,7 @@
 # Предсказание цен на жильё в Нью-Йорке с помощью CatBoost
 ---
+Ссылка на данные(Kaggle) - https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
+---
 <img src="https://github.com/Vova2808/NY_House_Dataset/assets/96084748/7c785f3d-0642-4426-9777-da7e44305ae8">
 <br>
 
